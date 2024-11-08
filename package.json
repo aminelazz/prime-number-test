@@ -1,7 +1,7 @@
 {
     "name": "prime-number-test",
     "version": "1.0.1",
-    "description": "Test if a number is a prime number.",
+    "description": "Test if a number is a prime number",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
